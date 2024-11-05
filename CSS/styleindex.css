@@ -1,0 +1,85 @@
+
+*{ box-sizing: border-box;
+	  font-family: Georgia,Cambria, sans-serif; }
+
+	body{ margin:0;
+		font-family: Georgia,Cambria, sans-serif; 
+		background-color:#836FFF }
+
+		.sidenav{ overflow:hidden;
+			background-color: #352F44;}
+
+		.sidenav a{ float:left;
+				display:block;
+				color:#F8F4E1;
+				text-align:center;
+				padding:14px 16px;
+				text-decoration:none; }
+
+		.sidenav a:hover{ background-color: #AD88C6;
+				color:#FFE6E6; }
+
+		/** seccion de inicio**/
+		.inicio.content { background-color: #B9B4C7;
+				   padding:10px;
+				   height:px;
+				   text-align: justified;
+				}
+		
+		/**seccion de historia**/
+		.historia.content {background-color: #B9B4C7;
+				   padding:10px;
+				   height:px;
+				   text-align: justify;}
+
+		/**seccion de sintomas**/
+		.sintomas.content {background-color: #B9B4C7;
+				   padding:10px;
+				   height:px;
+				   text-align: justify;}
+
+		/**seccion de causas**/
+		.causas.content {background-color: #B9B4C7;
+				   padding:10px;
+				   height:px;
+				   text-align: justify;}
+
+		/**seccion de factores**/
+		.factores.content {background-color: #B9B4C7;
+				   padding:10px;
+				   height:px;
+				   text-align: justify;}
+
+		/**seccion de metodos**/
+		.metodos.content {background-color: #B9B4C7;
+				   padding:10px;
+				   height:px;
+				   text-align: justify;}
+
+		/**seccion de niños**/
+		.niños.content {background-color: #B9B4C7;
+				   padding:10px;
+				   height:px;
+				   text-align: justify;}
+
+		/**seccion de asesinato**/
+		.asesinato.content {background-color: #B9B4C7;
+				   padding:10px;
+				   height:px;
+				   text-align: justify;}
+
+		/**seccion de consumo**/
+		.consumo.content {background-color: #B9B4C7;
+				   padding:10px;
+				   height:px;
+				   text-align: justify;}
+
+		/**seccion de complicaciones**/
+		.complicaciones.content {background-color: #B9B4C7;
+				   padding:10px;
+				   height:px;
+				   text-align: justify;}
+
+		.footer { background-color:#CCD3CA;
+				 padding:10px;
+				 text-align:center; }
